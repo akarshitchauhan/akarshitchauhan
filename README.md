@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @akarshitchauhan
-- 👀 I’m interested in Andriod development and Cloud Computing!
+- 👀 I’m interested in iOS and Android development(using React Native) and Cloud Machine Learning!
 - 🌱 I’m currently learning Computer Science and Engineering from JIIT, NOIDA.
 - 💞️ I’m looking to collaborate on projects with useful outcomes.
 - 📫 How to reach me - just follow me on Instagram @akarshit.chauhan, Twitter @akarshit_20 or mail me at akarshit.chauhan2003@gmail.com, akarshitjiitchauhan@gmail.com
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akarshitchauhan&label=Profile%20views&color=0e75b6&style=flat" alt="akarshitchauhan" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
