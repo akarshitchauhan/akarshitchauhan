@@ -8,6 +8,8 @@
 </p>
 - 📫 How to reach me - just follow me on Instagram @akarshit.chauhan, Twitter @akarshit_20 or mail me at akarshit.chauhan2003@gmail.com, akarshitjiitchauhan@gmail.com
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="akarshit-chauhan-03326622a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/akarshit-chauhan-03326622a?trk=profile-badge">Akarshit Chauhan</a></div>
+              
 
 
 
