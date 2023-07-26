@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akarshitchauhan
-- 👀 I’m interested in iOS and Android development(using React Native) and Cloud Machine Learning!
+- 👀 I’m interested in iOS and Android development(using React Native) and Machine Learning!
 - 🌱 I’m currently learning Computer Science and Engineering from JIIT, NOIDA.
 - 💞️ I’m looking to collaborate on projects with useful outcomes.
 
